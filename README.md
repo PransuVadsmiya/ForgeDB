@@ -1,4 +1,4 @@
-# MiniSQL
+# ForgeDB
 
 A small SQL database engine in C++17. It parses SQL, plans queries against
 B-tree and hash indexes, executes them (joins, aggregates, transactions), and
